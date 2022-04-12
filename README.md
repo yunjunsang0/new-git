@@ -2,4 +2,4 @@
 원격저장소
 
 
-![나의 시간](./images/1qas.jpg)
+![나의 시간](./images/1qjs)
